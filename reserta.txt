@@ -1,0 +1,4 @@
+ maruchan 
+pasta \agua caliente\tenedor
+abrir y poner agua caliente
+espera 5 minutos y luego comer :)
